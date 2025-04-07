@@ -9,3 +9,4 @@ def calculate_sum(terms=100000):
 
 result = calculate_sum()
 print(f"Сумма ряда: {result:.5f}")
+print(5)
